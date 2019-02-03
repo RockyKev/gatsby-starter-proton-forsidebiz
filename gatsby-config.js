@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/gatsby-starter-proton-forsidebiz",
   siteMetadata: {
     title: "Gatsby Starter - Photon",
     author: "Hunter Chang",
